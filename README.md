@@ -1,3 +1,5 @@
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/raphafulldev/assets/blob/main/LICENSE) 
+
 # ✅ Task Manager - CRUD de Tarefas  
 
 Um sistema simples para gerenciamento de tarefas, desenvolvido como projeto de estudo para praticar operações **CRUD** (Create, Read, Update, Delete) utilizando **Spring Boot** e **H2 Database**.  
